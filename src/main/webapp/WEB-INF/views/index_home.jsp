@@ -27,7 +27,7 @@
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li><a href="#technologies">TECHNOLOGIES</a></li>
-                                <li><a href="#about">ABOUT</a></li>
+                                <li><a href="#about">ABOUT Kunal</a></li>
                                 <li><a href="#contact">CONTACT</a></li>
                                 <li><a href="#">BLOG</a></li>
                             </ul>
