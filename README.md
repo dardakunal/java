@@ -1,6 +1,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dardakunal_java&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dardakunal_java)
 
-test
+
 #######
 ### Prerequisites
 - JDK 1.8 or later
